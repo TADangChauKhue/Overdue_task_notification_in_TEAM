@@ -20,10 +20,10 @@ To improve maintainability and security, this flow is executed using a **dedicat
 
 ## 2. Flow Logic (Power Automate)
 
-### 🟦 Trigger:
+### Trigger:
 - **Recurrence:** The flow runs automatically **every Friday**.
 
-### 🟪 Steps:
+### Steps:
 
 1. **Get query results**  
    Connects to the source system (e.g., Azure DevOps or other reporting database) to retrieve all current task data.
@@ -48,16 +48,16 @@ To improve maintainability and security, this flow is executed using a **dedicat
 
 ## 3. Special Features
 
-- 🛡️ **Service Account Execution:**  
+- **Service Account Execution:**  
   The flow runs under a **dedicated service account**, ensuring the automation:
   - Is not tied to a personal identity  
   - Remains operational even if team members change  
   - Complies with IT security best practices
 
-- 🗓️ **Weekly Rhythm:**  
+- **Weekly Rhythm:**  
   Automatically alerts the team **every Friday** so actions can be taken before the next planning cycle.
 
-- 🔄 **Scalable Setup:**  
+- **Scalable Setup:**  
   Easily adaptable to multiple project teams or departments.
 
 ## Overview and Example Output
