@@ -62,10 +62,8 @@ To improve maintainability and security, this flow is executed using a **dedicat
 
 ## Overview and Example Output
 
-Flow
 ![image](https://github.com/user-attachments/assets/4a76eea3-9327-4e84-b0c4-78a0158fe3d0)
 
-Output
 ![image](https://github.com/user-attachments/assets/d1296dd0-8f00-4368-b264-f0556c85a22a)
 
 
